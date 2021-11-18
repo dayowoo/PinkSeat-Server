@@ -7,7 +7,7 @@
 #### [선다영](https://github.com/dayowoo)
 #### Department of Information and Communication Engineering at SMU
 <br>
-##### ✨ 맡은 파트
+#### ✨ 맡은 파트
 
 	- Django Rest Framework / MySQL 개발
 	- retrofit 을 사용한 Android - Django 통신 구현
@@ -19,9 +19,9 @@
 
 ---
 
-#### Summary
+### 💌 Summary
 
-* **DEMO VIDEO** : https://www.youtube.com/watch?v=5QyCfUJtvto&t=1s
+* 🎬 **DEMO VIDEO** : https://www.youtube.com/watch?v=5QyCfUJtvto&t=1s
 
   <br>
 
@@ -61,7 +61,7 @@
 
 
 
-### What I Earned
+### 📚 What I Earned
 
 ---
 
@@ -73,7 +73,7 @@
 
 
 
-#### Report implemented assignment
+### 📢 Report implemented assignment
 
 ---
 
